@@ -30,9 +30,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelo-malatacca&theme=vue-dark)
 
+
+<!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelo-malatacca&repo=AWS-Utility-Scripts&theme=radical)](https://github.com/angelo-malatacca/AWS-Utility-Scripts)
 
-<!--  
+ 
 Icons:
 https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md
 https://gist.github.com/brennv/3e9a26308948f11d651f
