@@ -28,7 +28,9 @@
 
 ![angelo's github stats](https://github-readme-stats.vercel.app/api?username=angelo-malatacca&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelo-malatacca)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelo-malatacca&theme=vue-dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelo-malatacca&repo=AWS-Utility-Scripts&theme=radical)](https://github.com/angelo-malatacca/AWS-Utility-Scripts)
 
 <!--  
 Icons:
