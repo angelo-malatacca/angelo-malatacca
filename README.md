@@ -22,7 +22,7 @@
 
 ![](img/aws-certified-solutions-architect-associate.png)
 ![](img/aws-certified-sysopadmin-associate.png)
-![](img/WellArch-Proficient.png)
+<!-- ![](img/WellArch-Proficient.png) -->
 
 ---
 `Nerd Stats`
