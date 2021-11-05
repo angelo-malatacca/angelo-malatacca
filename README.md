@@ -23,8 +23,8 @@
 ![](img/aws-certified-solutions-architect-associate.png)
 ![](img/aws-certified-sysopadmin-associate.png)
 ![](img/well-arch-proficient.png)
-![](partneraccreditation-cloudeconomics.png)
-![](partneraccreditation-technical.png)
+![](img/apartneraccreditation-cloudeconomics.png)
+![](img/apartneraccreditation-technical.png)
 
 ---
 `Nerd Stats`
