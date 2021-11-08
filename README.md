@@ -25,6 +25,7 @@
 ![](img/well-arch-proficient.png)
 ![](img/partneraccreditation-cloudeconomics.png)
 ![](img/partneraccreditation-technical.png)
+![](img/partneraccreditation-business.png)
 
 ---
 `Nerd Stats`
