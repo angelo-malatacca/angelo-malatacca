@@ -56,15 +56,16 @@
 <!--END_SECTION:activity-->
 
 ---
-[![Visits Badge](https://badges.pufler.dev/visits/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
 
+[![Updated Badge](https://badges.pufler.dev/updated/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
+
+[![Visits Badge](https://badges.pufler.dev/visits/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
 
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelo-malatacca&repo=AWS-Utility-Scripts&theme=radical)](https://github.com/angelo-malatacca/AWS-Utility-Scripts)
 
- 
+https://github.com/codeSTACKr/awesome-github-profile-readme 
 Icons:
 https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md
 https://gist.github.com/brennv/3e9a26308948f11d651f
