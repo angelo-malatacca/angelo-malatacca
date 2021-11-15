@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
+
 ### Hi there 👋
 
 
