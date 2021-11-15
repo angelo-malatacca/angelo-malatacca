@@ -1,5 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
-
 ### Hi there 👋
 
 
@@ -56,6 +54,9 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
+[![Visits Badge](https://badges.pufler.dev/visits/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
 
 
 <!-- 
