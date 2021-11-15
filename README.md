@@ -49,6 +49,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelo-malatacca&layout=compact&theme=vue-dark)
 
+---
+`:zap: Recent Activity ⚡`
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelo-malatacca&repo=AWS-Utility-Scripts&theme=radical)](https://github.com/angelo-malatacca/AWS-Utility-Scripts)
