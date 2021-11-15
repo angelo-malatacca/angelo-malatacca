@@ -57,6 +57,8 @@
 
 ---
 [![Visits Badge](https://badges.pufler.dev/visits/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
 
 
 <!-- 
