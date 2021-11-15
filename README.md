@@ -28,6 +28,10 @@
 ![](img/partneraccreditation-business.png)
 
 ---
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+---
 `Nerd Stats`
 
 ![angelo's github stats](https://github-readme-stats.vercel.app/api?username=angelo-malatacca&count_private=true&show_icons=true&theme=radical&hide_rank=false)
