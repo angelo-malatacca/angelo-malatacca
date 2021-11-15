@@ -39,6 +39,7 @@
 ---
 `📺 YouTube videos`
 <!-- YOUTUBE:START -->
+- [Terraform S3 and dynamoDB backend](https://www.youtube.com/watch?v=hvamD0jatqU)
 <!-- YOUTUBE:END -->
 
 ---
