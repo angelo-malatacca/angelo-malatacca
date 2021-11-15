@@ -50,7 +50,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelo-malatacca&layout=compact&theme=vue-dark)
 
 ---
-`:zap: Recent Activity ⚡`
+`⚡ Recent Activity`
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
