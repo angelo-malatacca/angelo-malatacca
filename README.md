@@ -28,9 +28,10 @@
 ![](img/partneraccreditation-business.png)
 
 ---
-# Blog posts
+`Blog posts`
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 ---
 `Nerd Stats`
 
