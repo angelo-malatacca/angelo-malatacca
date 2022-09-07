@@ -12,7 +12,7 @@
 
 - 🙋 About me: 
   - I am passionate about IoT, home automation, sensors and DIY
-  - I love snowboarding 🏂, go around by motorbike 🏍, play table tennis (ping pong) travel the 🌎 world 🌍 to discover new places and meet new cultures and I have a huge passion for pizza 🍕
+  - I love snowboarding 🏂, go around by motorbike 🏍, play table tennis 🏓 (ping pong), travel the 🌎 world 🌍 to discover new places and meet new cultures and I have a huge passion for pizza 🍕
 
 
 ---
