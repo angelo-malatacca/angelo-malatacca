@@ -64,6 +64,8 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=angelo-malatacca)
+
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelo-malatacca&repo=AWS-Utility-Scripts&theme=radical)](https://github.com/angelo-malatacca/AWS-Utility-Scripts)
 
