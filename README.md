@@ -58,11 +58,13 @@
 <!--END_SECTION:activity-->
 
 ---
+<!-- 
 [![Created Badge](https://badges.pufler.dev/created/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
 
 [![Updated Badge](https://badges.pufler.dev/updated/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
 
 [![Visits Badge](https://badges.pufler.dev/visits/angelo-malatacca/angelo-malatacca)](https://badges.pufler.dev)
+-->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=angelo-malatacca)
 
