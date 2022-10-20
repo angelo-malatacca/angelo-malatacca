@@ -27,6 +27,7 @@
 ![](img/partneraccreditation-cloudeconomics.png)
 ![](img/partneraccreditation-technical.png)
 ![](img/partneraccreditation-business.png)
+![](img/storage-object.png)
 
 ---
 `📕 Blog posts`
