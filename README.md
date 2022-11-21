@@ -18,6 +18,8 @@
 ---
 `Certifications`
 
+[Certification validaton](https://www.credly.com/users/angelo-malatacca)
+
 <!--START_SECTION:badges-->
 [![AWS Learning: Storage Technologist](https://images.credly.com/size/110x110/images/92538513-bf12-420e-b1e5-d9d8abb756bb/image.png)](http://www.credly.com/badges/96fbdbb6-5036-459b-b796-4946ecc7282e "AWS Learning: Storage Technologist")
 [![AWS Learning: Data Migration](https://images.credly.com/size/110x110/images/76898096-3008-4233-900f-94736f675822/image.png)](http://www.credly.com/badges/2e606e19-92a3-4e22-b28d-15f154696cb8 "AWS Learning: Data Migration")
@@ -34,17 +36,6 @@
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/919f8411-e9af-42f9-be8c-d42dc4e65f00 "AWS Certified SysOps Administrator – Associate")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/b28249f0-5a46-416c-842e-506a943fa503 "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
-
-[Certification validaton](https://www.credly.com/users/angelo-malatacca)
-
-
-![](img/aws-certified-solutions-architect-associate.png)
-![](img/aws-certified-sysopadmin-associate.png)
-![](img/well-arch-proficient.png)
-![](img/partneraccreditation-cloudeconomics.png)
-![](img/partneraccreditation-technical.png)
-![](img/partneraccreditation-business.png)
-![](img/storage-object-cert.png)
 
 ---
 `📕 Latest blog posts`
