@@ -33,7 +33,7 @@
 ![](img/storage-object-cert.png)
 
 ---
-`📕 Blog posts`
+`📕 Latest blog posts`
 <!-- BLOG-POST-LIST:START -->
 - [Stop your Amazon EC2 instances via AWS Lambda and receive an email notification via Amazon SNS or a…](https://angelo-malatacca83.medium.com/stop-your-amazon-ec2-instances-via-aws-lambda-and-receive-an-email-notification-via-amazon-sns-or-a-3689d920f94?source=rss-80236cd8348d------2)
 - [This week at AWS](https://angelo-malatacca83.medium.com/this-week-at-aws-e786623e7352?source=rss-80236cd8348d------2)
