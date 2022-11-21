@@ -18,6 +18,9 @@
 ---
 `Certifications`
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 [Certification validaton](https://www.credly.com/users/angelo-malatacca)
 
 
