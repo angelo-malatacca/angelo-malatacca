@@ -15,3 +15,4 @@ jobs:
         uses:  pemtajo/badge-readme@main
         with:       
           CREDLY_USER: angelo-malatacca # optional, but default will use the same from github
+          CREDLY_SORT: POPULAR
