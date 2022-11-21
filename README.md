@@ -35,12 +35,11 @@
 ---
 `📕 Blog posts`
 <!-- BLOG-POST-LIST:START -->
-- [Create your subtitles with Amazon Transcribe, AWS Lambda, Amazon S3 and Amazon SNS.](https://angelo-malatacca83.medium.com/create-your-subtitles-with-amazon-transcribe-aws-lambda-amazon-s3-and-amazon-sns-35fef4e13537)
-- [This week at AWS series](https://angelo-malatacca83.medium.com/)
-- [Backup and upgrade your EKS cluster with Velero and eksctl.](https://angelo-malatacca83.medium.com/backup-and-upgrade-your-eks-cluster-with-velero-and-eksctl-c12bea07aab9?source=rss-80236cd8348d------2)
-- [Dr. Werner Vogels 2020 re:Invent 2020 keynote](https://angelo-malatacca83.medium.com/dr-werner-vogels-2020-re-invent-2020-keynote-ce128761ad44?source=rss-80236cd8348d------2)
-- [AWS re:Invent 2020 announcement: S3 Strong Read-After-Write Consistency](https://angelo-malatacca83.medium.com/aws-re-invent-2020-announcement-s3-strong-read-after-write-consistency-ff3308e56c94?source=rss-80236cd8348d------2)
-- [Build and keep your images up to date with AWS ImageBuilder](https://angelo-malatacca83.medium.com/build-and-keep-your-images-up-to-date-with-aws-imagebuilder-dddea519c84f?source=rss-80236cd8348d------2)
+- [Stop your Amazon EC2 instances via AWS Lambda and receive an email notification via Amazon SNS or a…](https://angelo-malatacca83.medium.com/stop-your-amazon-ec2-instances-via-aws-lambda-and-receive-an-email-notification-via-amazon-sns-or-a-3689d920f94?source=rss-80236cd8348d------2)
+- [This week at AWS](https://angelo-malatacca83.medium.com/this-week-at-aws-e786623e7352?source=rss-80236cd8348d------2)
+- [This week at AWS](https://angelo-malatacca83.medium.com/this-week-at-aws-a38c76b9cbc1?source=rss-80236cd8348d------2)
+- [This week at AWS](https://angelo-malatacca83.medium.com/this-week-at-aws-6bedbade2d4d?source=rss-80236cd8348d------2)
+- [This week at AWS](https://angelo-malatacca83.medium.com/this-week-at-aws-ec4f44fc90b4?source=rss-80236cd8348d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
