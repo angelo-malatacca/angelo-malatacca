@@ -19,6 +19,20 @@
 `Certifications`
 
 <!--START_SECTION:badges-->
+[![AWS Learning: Storage Technologist](https://images.credly.com/size/110x110/images/92538513-bf12-420e-b1e5-d9d8abb756bb/image.png)](http://www.credly.com/badges/96fbdbb6-5036-459b-b796-4946ecc7282e "AWS Learning: Storage Technologist")
+[![AWS Learning: Data Migration](https://images.credly.com/size/110x110/images/76898096-3008-4233-900f-94736f675822/image.png)](http://www.credly.com/badges/2e606e19-92a3-4e22-b28d-15f154696cb8 "AWS Learning: Data Migration")
+[![AWS Learning: Data Protection & Disaster Recovery](https://images.credly.com/size/110x110/images/cfd14e60-661d-43d7-80cc-b8d6ff9f9198/image.png)](http://www.credly.com/badges/ce7b748c-81ee-408d-827c-714831a41843 "AWS Learning: Data Protection & Disaster Recovery")
+[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/10c9e091-c752-4c68-a3dc-c74255bf45be "AWS Certified Solutions Architect – Professional")
+[![AWS Learning: Storage Core](https://images.credly.com/size/110x110/images/27ab7d0c-90b5-4f30-b9a1-7e48216408d2/image.png)](http://www.credly.com/badges/0cabc19c-20a0-494a-a41b-30642ff42a0f "AWS Learning: Storage Core")
+[![AWS Learning: Block Storage](https://images.credly.com/size/110x110/images/b17ef923-1266-4b47-8e22-1fbc5011c1ed/image.png)](http://www.credly.com/badges/1bbaafd1-7b8b-4e0b-bcdf-649b3bb68df2 "AWS Learning: Block Storage")
+[![AWS Learning: File Storage](https://images.credly.com/size/110x110/images/1fd01724-3eb7-4f9d-86d4-eea0ac1ce3f7/image.png)](http://www.credly.com/badges/32934d53-785d-4f34-b98e-ca1ed31d0390 "AWS Learning: File Storage")
+[![AWS Learning: Object Storage](https://images.credly.com/size/110x110/images/06544cb3-dd5b-4406-8615-95ae3c884e14/image.png)](http://www.credly.com/badges/7c3d9d9c-f8ab-43e4-bf26-65ec2698a7a3 "AWS Learning: Object Storage")
+[![AWS Partner: Accreditation (Business)](https://images.credly.com/size/110x110/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png)](http://www.credly.com/badges/2ef8fd53-8246-4e1f-927e-334a078977a7 "AWS Partner: Accreditation (Business)")
+[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/110x110/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png)](http://www.credly.com/badges/5d842c2c-9b89-4f4b-a578-6fd26c496e80 "AWS Partner: Accreditation (Technical)")
+[![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/110x110/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png)](http://www.credly.com/badges/d8e7b6e1-ff68-491c-91ef-5e74b79b3cb4 "AWS Partner: Cloud Economics Accreditation")
+[![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/23338ea0-88b4-46b3-8157-5b0a4f8f7f4d "Well-Architected Proficient")
+[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/919f8411-e9af-42f9-be8c-d42dc4e65f00 "AWS Certified SysOps Administrator – Associate")
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/b28249f0-5a46-416c-842e-506a943fa503 "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
 
 [Certification validaton](https://www.credly.com/users/angelo-malatacca)
