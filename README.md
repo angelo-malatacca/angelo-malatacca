@@ -36,6 +36,7 @@
 [![AWS Learning: Storage Core](https://images.credly.com/size/110x110/images/27ab7d0c-90b5-4f30-b9a1-7e48216408d2/image.png)](http://www.credly.com/badges/0cabc19c-20a0-494a-a41b-30642ff42a0f "AWS Learning: Storage Core")
 [![AWS Learning: Data Protection & Disaster Recovery](https://images.credly.com/size/110x110/images/cfd14e60-661d-43d7-80cc-b8d6ff9f9198/image.png)](http://www.credly.com/badges/ce7b748c-81ee-408d-827c-714831a41843 "AWS Learning: Data Protection & Disaster Recovery")
 [![AWS Learning: Storage Technologist](https://images.credly.com/size/110x110/images/92538513-bf12-420e-b1e5-d9d8abb756bb/image.png)](http://www.credly.com/badges/96fbdbb6-5036-459b-b796-4946ecc7282e "AWS Learning: Storage Technologist")
+[![AWS Partner: AWS GovCloud (US) Essentials (Business)](https://images.credly.com/size/110x110/images/9b897c01-01bb-4f2c-819c-cdf95080d738/image.png)](http://www.credly.com/badges/a012b408-de6b-4525-a333-e090c12cd02e "AWS Partner: AWS GovCloud (US) Essentials (Business)")
 <!--END_SECTION:badges-->
 
 ---
