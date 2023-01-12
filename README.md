@@ -58,7 +58,7 @@
 ---
 `Nerd Stats`
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=angelo-malatacca&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
 
 ![angelo's github stats](https://github-readme-stats.vercel.app/api?username=angelo-malatacca&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
