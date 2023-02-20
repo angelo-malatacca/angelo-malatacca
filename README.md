@@ -33,8 +33,8 @@
 [![AWS Learning: Block Storage](https://images.credly.com/size/110x110/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png)](http://www.credly.com/badges/1bbaafd1-7b8b-4e0b-bcdf-649b3bb68df2 "AWS Learning: Block Storage")
 [![AWS Learning: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/32934d53-785d-4f34-b98e-ca1ed31d0390 "AWS Learning: File Storage")
 [![AWS Learning: Data Migration](https://images.credly.com/size/110x110/images/d7c2b294-d08e-4795-a342-88fc34df7e01/image.png)](http://www.credly.com/badges/2e606e19-92a3-4e22-b28d-15f154696cb8 "AWS Learning: Data Migration")
-[![AWS Learning: Storage Core](https://images.credly.com/size/110x110/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png)](http://www.credly.com/badges/0cabc19c-20a0-494a-a41b-30642ff42a0f "AWS Learning: Storage Core")
 [![AWS Learning: Data Protection & Disaster Recovery](https://images.credly.com/size/110x110/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png)](http://www.credly.com/badges/ce7b748c-81ee-408d-827c-714831a41843 "AWS Learning: Data Protection & Disaster Recovery")
+[![AWS Learning: Storage Core](https://images.credly.com/size/110x110/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png)](http://www.credly.com/badges/0cabc19c-20a0-494a-a41b-30642ff42a0f "AWS Learning: Storage Core")
 [![AWS Learning: Storage Technologist](https://images.credly.com/size/110x110/images/526ad7ad-52f2-4922-9fa8-879fea71e286/image.png)](http://www.credly.com/badges/96fbdbb6-5036-459b-b796-4946ecc7282e "AWS Learning: Storage Technologist")
 [![AWS Partner: AWS GovCloud (US) Essentials (Business)](https://images.credly.com/size/110x110/images/9b897c01-01bb-4f2c-819c-cdf95080d738/image.png)](http://www.credly.com/badges/a012b408-de6b-4525-a333-e090c12cd02e "AWS Partner: AWS GovCloud (US) Essentials (Business)")
 <!--END_SECTION:badges-->
