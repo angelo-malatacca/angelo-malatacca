@@ -38,6 +38,7 @@
 [![AWS Learning: Storage Core](https://images.credly.com/size/110x110/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png)](http://www.credly.com/badges/0cabc19c-20a0-494a-a41b-30642ff42a0f "AWS Learning: Storage Core")
 [![AWS Learning: Storage Technologist](https://images.credly.com/size/110x110/images/526ad7ad-52f2-4922-9fa8-879fea71e286/image.png)](http://www.credly.com/badges/96fbdbb6-5036-459b-b796-4946ecc7282e "AWS Learning: Storage Technologist")
 [![AWS Partner: AWS GovCloud (US) Essentials (Business)](https://images.credly.com/size/110x110/images/9b897c01-01bb-4f2c-819c-cdf95080d738/image.png)](http://www.credly.com/badges/a012b408-de6b-4525-a333-e090c12cd02e "AWS Partner: AWS GovCloud (US) Essentials (Business)")
+[![AWS Learning: AWS for Games: Cloud Game Development](https://images.credly.com/size/110x110/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png)](http://www.credly.com/badges/ed357a54-85cb-484f-8563-384f39650a8a "AWS Learning: AWS for Games: Cloud Game Development")
 <!--END_SECTION:badges-->
 
 ---
