@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 I'm a Solutions Architect and Cloud Engineer
-- 💬 Ask me about AWS, Kubernetes, IaC and other things
+- 💬 Ask me about AWS, GenerativeAI, Kubernetes, IaC and other things
 - ☁ I'm an [AWSug.nl](https://awsug.nl/about/) organizer and an ex AWS Community Builder member 
 - 📫 Find me on:
   - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/angelo-malatacca83/)
