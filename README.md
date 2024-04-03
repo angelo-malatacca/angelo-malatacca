@@ -48,11 +48,11 @@
 ---
 `📕 Latest blog posts`
 <!-- BLOG-POST-LIST:START -->
+- [Deploying and Configuring Access for Your Amazon Q Chatbot: A Step-by-Step Guide](https://angelo-malatacca83.medium.com/deploying-and-configuring-access-for-your-amazon-q-chatbot-a-step-by-step-guide-ada6b60396a6?source=rss-80236cd8348d------2)
 - [Cooking Without the Fuss: Building an Intelligent Recipe Chatbot with Amazon Q](https://angelo-malatacca83.medium.com/cooking-without-the-fuss-building-an-intelligent-recipe-chatbot-with-amazon-q-e99b044e9d67?source=rss-80236cd8348d------2)
 - [Stop your Amazon EC2 instances via AWS Lambda and receive an email notification via Amazon SNS or a…](https://angelo-malatacca83.medium.com/stop-your-amazon-ec2-instances-via-aws-lambda-and-receive-an-email-notification-via-amazon-sns-or-a-3689d920f94?source=rss-80236cd8348d------2)
 - [This week at AWS](https://angelo-malatacca83.medium.com/this-week-at-aws-e786623e7352?source=rss-80236cd8348d------2)
 - [This week at AWS](https://angelo-malatacca83.medium.com/this-week-at-aws-a38c76b9cbc1?source=rss-80236cd8348d------2)
-- [This week at AWS](https://angelo-malatacca83.medium.com/this-week-at-aws-6bedbade2d4d?source=rss-80236cd8348d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
