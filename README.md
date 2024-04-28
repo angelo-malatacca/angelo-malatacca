@@ -71,6 +71,8 @@
 `⚡ Recent Activity`
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#282](https://github.com/aws-samples/bedrock-claude-chat/pull/282) in [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat)
+2. ❗ Opened issue [#278](https://github.com/aws-samples/bedrock-claude-chat/issues/278) in [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat)
 <!--END_SECTION:activity-->
 
 ---
