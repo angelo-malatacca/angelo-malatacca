@@ -71,8 +71,8 @@
 `⚡ Recent Activity`
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#282](https://github.com/aws-samples/bedrock-claude-chat/pull/282) in [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat)
-2. ❗ Opened issue [#278](https://github.com/aws-samples/bedrock-claude-chat/issues/278) in [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat)
+1. 💪 Opened PR [#93](https://github.com/aws-samples/serverless-rag-demo/pull/93) in [aws-samples/serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo)
+2. 🗣 Commented on [#282](https://github.com/aws-samples/bedrock-claude-chat/pull/282#issuecomment-2082115758) in [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat)
 <!--END_SECTION:activity-->
 
 ---
