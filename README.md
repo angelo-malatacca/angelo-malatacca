@@ -11,7 +11,7 @@
   - [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCLJYNEST8v6CDYPzXTBQSpQ)
 
 - 🙋 About me: 
-  - I am passionate about IoT, home automation, sensors and DIY
+  - I am passionate about GenerativeAI, IoT, home automation, sensors and DIY
   - I love snowboarding 🏂, go around by motorbike 🏍, play table tennis 🏓 (ping pong), travel the 🌎 world 🌍 to discover new places and meet new cultures and I have a huge passion for pizza 🍕
 
 
