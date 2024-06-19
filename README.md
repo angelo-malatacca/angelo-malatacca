@@ -38,10 +38,11 @@
 [![AWS Knowledge: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/32934d53-785d-4f34-b98e-ca1ed31d0390 "AWS Knowledge: File Storage")
 [![AWS Knowledge: Data Protection & Disaster Recovery](https://images.credly.com/size/110x110/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png)](http://www.credly.com/badges/ce7b748c-81ee-408d-827c-714831a41843 "AWS Knowledge: Data Protection & Disaster Recovery")
 [![AWS Knowledge: Data Migration](https://images.credly.com/size/110x110/images/d7c2b294-d08e-4795-a342-88fc34df7e01/image.png)](http://www.credly.com/badges/2e606e19-92a3-4e22-b28d-15f154696cb8 "AWS Knowledge: Data Migration")
+[![AWS Knowledge: Storage Core](https://images.credly.com/size/110x110/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png)](http://www.credly.com/badges/0cabc19c-20a0-494a-a41b-30642ff42a0f "AWS Knowledge: Storage Core")
+[![AWS Knowledge: AWS for Games: Cloud Game Development](https://images.credly.com/size/110x110/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png)](http://www.credly.com/badges/ed357a54-85cb-484f-8563-384f39650a8a "AWS Knowledge: AWS for Games: Cloud Game Development")
 [![AWS Knowledge: Storage Technologist](https://images.credly.com/size/110x110/images/526ad7ad-52f2-4922-9fa8-879fea71e286/image.png)](http://www.credly.com/badges/96fbdbb6-5036-459b-b796-4946ecc7282e "AWS Knowledge: Storage Technologist")
 [![AWS Partner: AWS GovCloud (US) Essentials](https://images.credly.com/size/110x110/images/927befe8-9e64-44af-80ba-f3b8cbd380d1/image.png)](http://www.credly.com/badges/a012b408-de6b-4525-a333-e090c12cd02e "AWS Partner: AWS GovCloud (US) Essentials")
 [![AWS Knowledge: Amazon Braket](https://images.credly.com/size/110x110/images/cb9ef1ba-f010-4a39-881b-65dce3e5df68/image.png)](http://www.credly.com/badges/d67c4d80-8663-4ce8-857d-492ef83a83e1 "AWS Knowledge: Amazon Braket")
-
 <!--END_SECTION:badges-->
 
 ---
