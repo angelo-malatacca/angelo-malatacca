@@ -43,6 +43,7 @@
 [![AWS Knowledge: Storage Technologist](https://images.credly.com/size/110x110/images/526ad7ad-52f2-4922-9fa8-879fea71e286/image.png)](http://www.credly.com/badges/96fbdbb6-5036-459b-b796-4946ecc7282e "AWS Knowledge: Storage Technologist")
 [![AWS Knowledge: Amazon Braket](https://images.credly.com/size/110x110/images/cb9ef1ba-f010-4a39-881b-65dce3e5df68/image.png)](http://www.credly.com/badges/d67c4d80-8663-4ce8-857d-492ef83a83e1 "AWS Knowledge: Amazon Braket")
 [![AWS Partner: AWS GovCloud (US) Essentials](https://images.credly.com/size/110x110/images/927befe8-9e64-44af-80ba-f3b8cbd380d1/image.png)](http://www.credly.com/badges/a012b408-de6b-4525-a333-e090c12cd02e "AWS Partner: AWS GovCloud (US) Essentials")
+[![AWS Partner: Digital Sovereignty](https://images.credly.com/size/110x110/images/432632b9-dcdc-43b6-b32d-c3e81b8c9b0d/blob)](http://www.credly.com/badges/5215f48f-f89e-456a-afeb-8ffd111a57c3 "AWS Partner: Digital Sovereignty")
 <!--END_SECTION:badges-->
 
 ---
