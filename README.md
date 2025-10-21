@@ -21,6 +21,7 @@
 [Certification validaton](https://www.credly.com/users/angelo-malatacca)
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/f9c452f9-33c3-4422-9f49-5f5d6db80163" title="AWS Partner: Agentic AI Essentials - Training Badge"><img src="https://images.credly.com/size/80x80/images/cb620644-88e4-4ee7-83a2-d33a6181e4b8/blob" alt="AWS Partner: Agentic AI Essentials - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/740d8d21-be77-48b5-aca0-394738549ce8" title="AWS Generative AI Technical Intermediate (L200)"><img src="https://images.credly.com/size/80x80/images/a5e0f58e-77c2-452d-b81d-79981315f238/blob" alt="AWS Generative AI Technical Intermediate (L200)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/353de283-9853-4dca-93c0-5b7a9484e410" title="AWS Generative AI Foundational (L100)"><img src="https://images.credly.com/size/80x80/images/8b33b26f-c8ef-47c5-9aa8-44930e6af44a/blob" alt="AWS Generative AI Foundational (L100)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5215f48f-f89e-456a-afeb-8ffd111a57c3" title="AWS Partner: Digital Sovereignty on AWS (Technical) - Training Badge"><img src="https://images.credly.com/size/80x80/images/b107cfba-35ce-4a51-844e-e62e79e9f53b/blob" alt="AWS Partner: Digital Sovereignty on AWS (Technical) - Training Badge" width="80" height="80"></a>
