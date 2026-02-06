@@ -70,7 +70,7 @@
 ---
 `Nerd Stats`
 
-![angelo's github stats](https://github-readme-stats.vercel.app/api?username=angelo-malatacca&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![angelo's github stats](https://github-readme-stats-fast.vercel.app/api?username=angelo-malatacca&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelo-malatacca&layout=compact&theme=vue-dark)
 ---
