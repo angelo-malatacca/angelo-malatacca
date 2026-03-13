@@ -21,6 +21,7 @@
 [Certification validaton](https://www.credly.com/users/angelo-malatacca)
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/371a4459-0808-4b29-8d3e-9d83f7a4bf06" title="AWS AI Sales Intermediate (L200)"><img src="https://images.credly.com/size/80x80/images/7bdcd475-199a-4457-b166-0c4b12bed915/blob" alt="AWS AI Sales Intermediate (L200)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/cbfb20f2-ce3b-4c69-abc6-07b78cd9f8be" title="AWS Partner: Agentic AI Technical Learning Plan Assessment - Training Badge"><img src="https://images.credly.com/size/80x80/images/88bc39e8-87f2-4e4b-8013-624d29e00e78/blob" alt="AWS Partner: Agentic AI Technical Learning Plan Assessment - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/bae113bd-b377-4ece-a29f-dd7c2d08209d" title="AWS Knowledge: Security Champion - Training Badge"><img src="https://images.credly.com/size/80x80/images/478cdcb9-9b92-4893-9c95-617ad0f28257/blob" alt="AWS Knowledge: Security Champion - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f9c452f9-33c3-4422-9f49-5f5d6db80163" title="AWS Partner: Agentic AI Essentials - Training Badge"><img src="https://images.credly.com/size/80x80/images/cb620644-88e4-4ee7-83a2-d33a6181e4b8/blob" alt="AWS Partner: Agentic AI Essentials - Training Badge" width="80" height="80"></a>
