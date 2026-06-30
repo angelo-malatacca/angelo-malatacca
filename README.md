@@ -30,7 +30,7 @@
 [![AWS Partner: Digital Sovereignty on AWS (Technical) - Training Badge](https://images.credly.com/size/80x80/images/b107cfba-35ce-4a51-844e-e62e79e9f53b/blob)](https://www.credly.com/badges/5215f48f-f89e-456a-afeb-8ffd111a57c3)
 [![AWS Knowledge: Amazon Braket - Training Badge](https://images.credly.com/size/80x80/images/811c6414-b84e-4879-bc5c-863fa62be6aa/blob)](https://www.credly.com/badges/d67c4d80-8663-4ce8-857d-492ef83a83e1)
 [![AWS Knowledge: Architecting (Retired)](https://images.credly.com/size/80x80/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/febdbfc5-a324-4c65-aa51-20f784161656)
-[![AWS Partner: Sales Accreditation - Training Badge](https://images.credly.com/size/80x80/images/46ea4542-72a8-46a1-8d68-b72c4ca50820/blob)](https://www.credly.com/badges/e7ac1836-7b97-44c6-a555-87bc95e3709e)
+[![AWS Partner: Sales Accredited - Training Badge](https://images.credly.com/size/80x80/images/46ea4542-72a8-46a1-8d68-b72c4ca50820/blob)](https://www.credly.com/badges/e7ac1836-7b97-44c6-a555-87bc95e3709e)
 [![AWS Partner: Generative AI Essentials - Training Badge](https://images.credly.com/size/80x80/images/4b547104-5ce9-43d5-8708-a7abb4b0c7ec/blob)](https://www.credly.com/badges/ae486224-24ea-4eac-953e-c31fe959f3d0)
 [![AWS Knowledge: AWS for Games: Cloud Game Development - Training Badge](https://images.credly.com/size/80x80/images/7ad52d33-5620-411e-997a-546b22ed33b7/blob)](https://www.credly.com/badges/ed357a54-85cb-484f-8563-384f39650a8a)
 [![AWS Partner: Migration Sales Essentials](https://images.credly.com/size/80x80/images/9d867250-0508-473b-a622-079edd01175f/image.png)](https://www.credly.com/badges/00b64849-62e6-4fcd-9289-461a4f4566b6)
