@@ -21,12 +21,12 @@
 [Certification validaton](https://www.credly.com/users/angelo-malatacca)
 
 <!--START_SECTION:badges-->
-[![AWS AI Sales Intermediate (L200)](https://images.credly.com/size/80x80/images/7bdcd475-199a-4457-b166-0c4b12bed915/blob)](https://www.credly.com/badges/371a4459-0808-4b29-8d3e-9d83f7a4bf06)
+[![AWS AI Sales Intermediate (L200) Accreditation](https://images.credly.com/size/80x80/images/7bdcd475-199a-4457-b166-0c4b12bed915/blob)](https://www.credly.com/badges/371a4459-0808-4b29-8d3e-9d83f7a4bf06)
 [![AWS Partner: Agentic AI Technical Learning Plan Assessment - Training Badge](https://images.credly.com/size/80x80/images/88bc39e8-87f2-4e4b-8013-624d29e00e78/blob)](https://www.credly.com/badges/cbfb20f2-ce3b-4c69-abc6-07b78cd9f8be)
 [![AWS Knowledge: Security Champion - Training Badge](https://images.credly.com/size/80x80/images/478cdcb9-9b92-4893-9c95-617ad0f28257/blob)](https://www.credly.com/badges/bae113bd-b377-4ece-a29f-dd7c2d08209d)
 [![AWS Partner: Agentic AI Essentials - Training Badge](https://images.credly.com/size/80x80/images/cb620644-88e4-4ee7-83a2-d33a6181e4b8/blob)](https://www.credly.com/badges/f9c452f9-33c3-4422-9f49-5f5d6db80163)
 [![AWS Generative AI Technical Intermediate (L200)](https://images.credly.com/size/80x80/images/a5e0f58e-77c2-452d-b81d-79981315f238/blob)](https://www.credly.com/badges/586b87d3-b997-4104-a327-57b2e6b86db4)
-[![AWS AI Foundational (L100)](https://images.credly.com/size/80x80/images/97c269f6-c8d0-40bd-8cbc-5c7834dbbc91/blob)](https://www.credly.com/badges/b9562030-0f44-4034-a7bc-344559d3aa5f)
+[![AWS AI Foundational (L100) Accreditation](https://images.credly.com/size/80x80/images/97c269f6-c8d0-40bd-8cbc-5c7834dbbc91/blob)](https://www.credly.com/badges/b9562030-0f44-4034-a7bc-344559d3aa5f)
 [![AWS Partner: Digital Sovereignty on AWS (Technical) - Training Badge](https://images.credly.com/size/80x80/images/b107cfba-35ce-4a51-844e-e62e79e9f53b/blob)](https://www.credly.com/badges/5215f48f-f89e-456a-afeb-8ffd111a57c3)
 [![AWS Knowledge: Amazon Braket - Training Badge](https://images.credly.com/size/80x80/images/811c6414-b84e-4879-bc5c-863fa62be6aa/blob)](https://www.credly.com/badges/d67c4d80-8663-4ce8-857d-492ef83a83e1)
 [![AWS Knowledge: Architecting (Retired)](https://images.credly.com/size/80x80/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/febdbfc5-a324-4c65-aa51-20f784161656)
