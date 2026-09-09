@@ -21,6 +21,7 @@
 [Certification validaton](https://www.credly.com/users/angelo-malatacca)
 
 <!--START_SECTION:badges-->
+[![AWS Partner: Kiro Learning Plan Assessment - Training Badge](https://images.credly.com/size/80x80/images/8e3bc0ae-ac9d-4d19-a734-bc892f44f0a9/blob)](https://www.credly.com/badges/ac3fd113-2c10-40d0-a8a0-b8c1e39d826b)
 [![AWS AI-Driven Development Lifecycle (AI-DLC) Ambassador Foundational (L100)](https://images.credly.com/size/80x80/images/4897ff5f-0a15-4ac4-874e-8cb5443e7f28/blob)](https://www.credly.com/badges/47b993c3-fdd4-4014-a03e-b97d810a51fe)
 [![AWS AI Sales Intermediate (L200) Accreditation](https://images.credly.com/size/80x80/images/7bdcd475-199a-4457-b166-0c4b12bed915/blob)](https://www.credly.com/badges/371a4459-0808-4b29-8d3e-9d83f7a4bf06)
 [![AWS Partner: Agentic AI Technical Learning Plan Assessment - Training Badge](https://images.credly.com/size/80x80/images/88bc39e8-87f2-4e4b-8013-624d29e00e78/blob)](https://www.credly.com/badges/cbfb20f2-ce3b-4c69-abc6-07b78cd9f8be)
